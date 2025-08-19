@@ -1,5 +1,7 @@
 ## 📊 Análise Estratégica: Fatores de Churn e Planos de Ação
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/73e1867d-4387-4a61-b354-863ad57bf188" />
+
 ### 🔍 1. Principais Variáveis com Impacto na Evasão
 **📌 Regressão Logística (Análise de Coeficientes):**
 
